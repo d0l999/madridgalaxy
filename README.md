@@ -1,4 +1,3 @@
-[index (3).html](https://github.com/user-attachments/files/23838274/index.3.html)
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -616,7 +615,7 @@
     <header class="fixed top-0 left-0 w-full bg-white bg-opacity-95 shadow-md z-50 transition-all duration-300" id="header">
         <div class="container mx-auto px-4 py-4 flex justify-between items-center">
             <a href="#" class="flex items-center">
-                <span class="text-2xl font-bold text-primary-color">别墅设计<span class="text-accent-color">装修图</span></span>
+                <span class="text-2xl font-bold text-primary-color">西班牙银河建工<span class="text-accent-color">工程公司</span></span>
             </a>
             
             <nav class="hidden md:flex items-center space-x-8">
@@ -678,7 +677,7 @@
                             <span class="case-area">320㎡</span>
                         </div>
                         <a href="#" class="view-3d-btn mt-4">
-                            <i class="fas fa-cube"></i> 3D预览
+                           
                         </a>
                     </div>
                 </div>
@@ -696,7 +695,7 @@
                             <span class="case-area">450㎡</span>
                         </div>
                         <a href="#" class="view-3d-btn mt-4">
-                            <i class="fas fa-cube"></i> 3D预览
+                         
                         </a>
                     </div>
                 </div>
@@ -714,7 +713,7 @@
                             <span class="case-area">520㎡</span>
                         </div>
                         <a href="#" class="view-3d-btn mt-4">
-                            <i class="fas fa-cube"></i> 3D预览
+                         
                         </a>
                     </div>
                 </div>
@@ -732,7 +731,7 @@
                             <span class="case-area">380㎡</span>
                         </div>
                         <a href="#" class="view-3d-btn mt-4">
-                            <i class="fas fa-cube"></i> 3D预览
+                          
                         </a>
                     </div>
                 </div>
@@ -750,7 +749,7 @@
                             <span class="case-area">480㎡</span>
                         </div>
                         <a href="#" class="view-3d-btn mt-4">
-                            <i class="fas fa-cube"></i> 3D预览
+                          
                         </a>
                     </div>
                 </div>
@@ -768,7 +767,7 @@
                             <span class="case-area">280㎡</span>
                         </div>
                         <a href="#" class="view-3d-btn mt-4">
-                            <i class="fas fa-cube"></i> 3D预览
+                           
                         </a>
                     </div>
                 </div>
@@ -850,7 +849,7 @@
                                     <span class="case-area">350㎡</span>
                                 </div>
                                 <a href="#" class="view-3d-btn mt-4">
-                                    <i class="fas fa-cube"></i> 3D预览
+                                
                                 </a>
                             </div>
                         </div>
@@ -868,7 +867,7 @@
                                     <span class="case-area">280㎡</span>
                                 </div>
                                 <a href="#" class="view-3d-btn mt-4">
-                                    <i class="fas fa-cube"></i> 3D预览
+                                    
                                 </a>
                             </div>
                         </div>
@@ -886,7 +885,7 @@
                                     <span class="case-area">220㎡</span>
                                 </div>
                                 <a href="#" class="view-3d-btn mt-4">
-                                    <i class="fas fa-cube"></i> 3D预览
+                                  
                                 </a>
                             </div>
                         </div>
@@ -904,7 +903,7 @@
                                     <span class="case-area">240㎡</span>
                                 </div>
                                 <a href="#" class="view-3d-btn mt-4">
-                                    <i class="fas fa-cube"></i> 3D预览
+                                
                                 </a>
                             </div>
                         </div>
@@ -924,34 +923,7 @@
         </div>
     </section>
 
-    <!-- 3D Viewer Section -->
-    <section id="3d-view" class="py-16 bg-white">
-        <div class="container mx-auto px-4">
-            <h2 class="section-title">3D互动预览</h2>
-            
-            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
-                <div class="fade-in">
-                    <div id="viewer-container">
-                        <!-- 3D Viewer will be rendered here -->
-                        <div class="viewer-controls">
-                            <div class="viewer-control-btn" id="rotate-left">
-                                <i class="fas fa-undo"></i>
-                            </div>
-                            <div class="viewer-control-btn" id="rotate-right">
-                                <i class="fas fa-redo"></i>
-                            </div>
-                            <div class="viewer-control-btn" id="zoom-in">
-                                <i class="fas fa-search-plus"></i>
-                            </div>
-                            <div class="viewer-control-btn" id="zoom-out">
-                                <i class="fas fa-search-minus"></i>
-                            </div>
-                            <div class="viewer-control-btn" id="reset-view">
-                                <i class="fas fa-sync-alt"></i>
-                            </div>
-                        </div>
-                    </div>
-                    
+                      
                     <div class="mt-4 flex flex-wrap gap-2">
                         <button class="px-4 py-2 bg-gray-200 rounded-md hover:bg-gray-300 transition-colors" data-view="exterior">外观</button>
                         <button class="px-4 py-2 bg-gray-200 rounded-md hover:bg-gray-300 transition-colors" data-view="living-room">客厅</button>
@@ -1006,47 +978,7 @@
         </div>
     </section>
 
-    <!-- Designers Section -->
-    <section id="designers" class="py-16 bg-gray-50">
-        <div class="container mx-auto px-4">
-            <h2 class="section-title">顶尖设计师推荐</h2>
-            
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 designer-grid">
-                <!-- Designer 1 -->
-                <div class="designer-card fade-in">
-                    <img src="https://p3-flow-imagex-sign.byteimg.com/tos-cn-i-a9rns2rl98/rc/pc/super_tool/a734e87e8dfc492b962fa9b2da934509~tplv-a9rns2rl98-image.image?rcl=202511301513222678C08197F139C65E03&rk3s=8e244e95&rrcfp=f06b921b&x-expires=1767078850&x-signature=6E7Q9DTrmlKuoWaxfRrzRC9MPIA%3D" alt="戴帆" class="designer-avatar">
-                    <h3 class="designer-name">戴帆</h3>
-                    <p class="designer-company">共振豪宅别墅中心 设计总监</p>
-                    <p class="designer-description">国际知名建筑设计师，被誉为"现代设计的旗手"，作品融合东西方文化，风格独特鲜明，曾获多项国际设计大奖。</p>
-                    <a href="#" class="contact-btn">联系设计师</a>
-                </div>
-                
-                <!-- Designer 2 -->
-                <div class="designer-card fade-in">
-                    <img src="https://p3-flow-imagex-sign.byteimg.com/tos-cn-i-a9rns2rl98/rc/pc/super_tool/55b444739db5495499498273364792e4~tplv-a9rns2rl98-image.image?rcl=202511301513222678C08197F139C65E03&rk3s=8e244e95&rrcfp=f06b921b&x-expires=1767078850&x-signature=uknxAwpsm3QvXDH%2FjsGApcpowVY%3D" alt="梁景华" class="designer-avatar">
-                    <h3 class="designer-name">梁景华</h3>
-                    <p class="designer-company">PAL设计顾问有限公司 创始人</p>
-                    <p class="designer-description">国际著名室内设计师，以"简单就是美"的设计理念著称，擅长将东方文化与国际设计语言相融合，作品遍布全球。</p>
-                    <a href="#" class="contact-btn">联系设计师</a>
-                </div>
-                
-                <!-- Designer 3 -->
-                <div class="designer-card fade-in">
-                    <img src="https://p11-doubao-search-sign.byteimg.com/tos-cn-i-qvj2lq49k0/b27d904250634fedb376f9a649c92962~tplv-be4g95zd3a-image.jpeg?rk3s=542c0f93&x-expires=1780038822&x-signature=9rGG9otHPcsUoqizaNEQlpESuDo%3D" alt="陈冬樑" class="designer-avatar">
-                    <h3 class="designer-name">陈冬樑</h3>
-                    <p class="designer-company">福建云之设计 主理人</p>
-                    <p class="designer-description">2025胡润光谷中国设计榜上榜设计师，专注豪宅设计领域，擅长将现代设计与传统文化元素相结合，创造出独特的空间体验。</p>
-                    <a href="#" class="contact-btn">联系设计师</a>
-                </div>
-            </div>
-            
-            <div class="text-center mt-12">
-                <a href="#" class="btn-primary">查看更多设计师</a>
-            </div>
-        </div>
-    </section>
-
-    <!-- AI Style Matching Section -->
+      <!-- AI Style Matching Section -->
     <section id="ai-style" class="ai-section">
         <div class="container mx-auto px-4">
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center ai-content">
@@ -1125,7 +1057,7 @@
                                 </div>
                                 <div class="ml-4">
                                     <h4 class="text-lg font-semibold text-gray-900">地址</h4>
-                                    <p class="text-gray-600">北京市朝阳区建国路88号现代城SOHO B座25层</p>
+                                    <p class="text-gray-600">calle villadecanes,1 28947 Fuenlabrada,Madrid</p>
                                 </div>
                             </div>
                             
@@ -1135,7 +1067,7 @@
                                 </div>
                                 <div class="ml-4">
                                     <h4 class="text-lg font-semibold text-gray-900">电话</h4>
-                                    <p class="text-gray-600">400-888-8888</p>
+                                    <p class="text-gray-600">34695843753</p>
                                 </div>
                             </div>
                             
@@ -1145,7 +1077,7 @@
                                 </div>
                                 <div class="ml-4">
                                     <h4 class="text-lg font-semibold text-gray-900">邮箱</h4>
-                                    <p class="text-gray-600">info@villa-design.com</p>
+                                    <p class="text-gray-600">galaxyconstruccion9@gmail.com</p>
                                 </div>
                             </div>
                             
@@ -1233,16 +1165,16 @@
                 <div>
                     <h3 class="footer-title">联系我们</h3>
                     <ul class="footer-links">
-                        <li><i class="fas fa-map-marker-alt mr-2 text-accent-color"></i> 北京市朝阳区建国路88号</li>
-                        <li><i class="fas fa-phone-alt mr-2 text-accent-color"></i> 400-888-8888</li>
-                        <li><i class="fas fa-envelope mr-2 text-accent-color"></i> info@villa-design.com</li>
+                        <li><i class="fas fa-map-marker-alt mr-2 text-accent-color"></i>calle villadecanes,1 28947 Fuenlabrada,Madrid </li>
+                        <li><i class="fas fa-phone-alt mr-2 text-accent-color"></i> 695843753</li>
+                        <li><i class="fas fa-envelope mr-2 text-accent-color"></i> galaxyconstruccion9@gmail.com</li>
                         <li><i class="fas fa-clock mr-2 text-accent-color"></i> 周一至周日 9:00-21:00</li>
                     </ul>
                 </div>
             </div>
             
             <div class="copyright">
-                <p>&copy; 2025 别墅设计装修图 版权所有 | 京ICP备12345678号</p>
+                <p>&copy; 2025 别墅设计装修图 </p>
             </div>
         </div>
     </footer>
